@@ -8,7 +8,7 @@ Chosen Project: Buy/Sell (Dogs For Adoption)
 [x] Build ERD
 [x] Create Tables in DB
 [x] Create Seeds
-[] Create Queries
+[x] Create Queries
 
 
 ### Front-end:
