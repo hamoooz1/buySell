@@ -8,6 +8,5 @@ CREATE TABLE dog (
     adoption_fee DECIMAL(10, 2),
     admin_id INT,
     description TEXT,
-    photo_url VARCHAR(255),
-    FOREIGN KEY (admin_id) REFERENCES Admin(Id)
+    photo_url VARCHAR(255)
 );

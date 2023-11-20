@@ -1,4 +1,4 @@
-# midtemr project
+# midterm project
 
 Group members: Hamza Kaderi, Rachel Little, Rony Reyes
 Chosen Project: Buy/Sell (Dogs For Adoption)

@@ -5,7 +5,5 @@ CREATE TABLE listing (
     publish_date DATE,
     active BOOLEAN,
     admin_id INT,
-    dog_id INT,
-    FOREIGN KEY (admin_id) REFERENCES Admin(Id),
-    FOREIGN KEY (dog_id) REFERENCES Dog(id)
+    dog_id INT
 );
